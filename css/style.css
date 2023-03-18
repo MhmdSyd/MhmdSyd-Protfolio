@@ -405,7 +405,7 @@ template {
 }
 
 .tool-card img{
-  width: 4rem;
+  height: 4rem;
   padding-top: 1rem;
   margin-bottom: 1rem;
 }
